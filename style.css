@@ -1,0 +1,23 @@
+body{
+   background-color: greenyellow;
+}
+
+
+table, td{
+    background-color: aquamarine;
+    text-align: center;
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 500px;
+    margin-top: 50px;
+
+}
+
+caption{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: large;
+    color: blue;
+}
